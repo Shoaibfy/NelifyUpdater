@@ -1,0 +1,30 @@
+.rcrow1 {
+  width: 100vw;
+  height: 150px;
+  background: white;
+  box-shadow: 0 0 15px #cccccc;
+  border: 1px solid lightgray;
+  padding: 20px;
+}
+
+.inputtxt {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px 3px;
+  border: 1px lightslategray;
+}
+.inputfields {
+  width: "240px";
+  height: "20px";
+}
+.tableContent {
+  background-color: white !important;
+  min-height: 50vh;
+  margin-top: 30px;
+  align-content: center;
+  box-shadow: 0 0 15px #cccccc;
+}
+td {
+  background-color: white !important;
+  border: 1px solid lightgray !important;
+}
